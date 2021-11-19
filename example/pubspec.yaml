@@ -1,0 +1,26 @@
+name: dynamic_colorscheme_example
+description: Demonstrates how to use the dynamic_colorscheme plugin.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dynamic_colorscheme:
+    path: ../
+  dynamic_color: ^0.1.0
+  material_color_utilities: ^0.1.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter:
+
+  uses-material-design: true
