@@ -44,7 +44,7 @@ packages:
     source: hosted
     version: "1.15.0"
   dynamic_color:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: dynamic_color
       url: "https://pub.dartlang.org"
@@ -89,7 +89,7 @@ packages:
     source: hosted
     version: "0.12.10"
   material_color_utilities:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: material_color_utilities
       url: "https://pub.dartlang.org"
