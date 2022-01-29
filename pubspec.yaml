@@ -1,6 +1,6 @@
 name: dynamic_colorscheme
 description: Generate a ColorScheme with Material 3 dynamic color by processing a CorePalette.
-version: 1.0.0
+version: 1.0.1
 homepage: https://instagram.com/quadrendev
 
 environment:
